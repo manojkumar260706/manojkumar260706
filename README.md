@@ -1,5 +1,3 @@
-# Hey 👋 I'm Manoj.
-
 # 🥀 About Me:
 Information Science and Engineering Student | Building. - Failing - Debugging.<br>Focused on learning Java, Spring Boot, and problem-solving on Leetcode.
 
