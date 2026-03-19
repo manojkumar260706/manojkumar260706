@@ -9,4 +9,8 @@ Information Science and Engineering Student | Building. - Failing - Debugging.<b
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manoj.exe_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar-01b236330) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manojjj_67) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumardhdj@gmail.com)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojkumar260706/manojkumar260706/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojkumar260706/manojkumar260706/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manojkumar260706/manojkumar260706/output/github-contribution-grid-snake.svg">
+</picture>
