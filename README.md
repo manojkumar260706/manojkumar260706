@@ -10,7 +10,7 @@
 
 ## ⚡ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,react,spring,mongodb,postgres,firebase,supabase,git,github,kafka,maven,netlify,postman,redis,vercel" />
+<img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,react,spring,fastapi,mongodb,postgres,firebase,supabase,git,github,kafka,maven,netlify,postman,redis,vercel" />
 
 
 ---
