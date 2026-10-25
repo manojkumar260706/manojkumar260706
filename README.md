@@ -4,7 +4,7 @@
 
 - Information Science and Engineering Student
 - Focused on learning Java, Spring Boot, and problem-solving on Leetcode.
-- Building. - Failing - Debugging.
+- Building - Failing - Debugging.
 
 ---
 
@@ -17,15 +17,16 @@
 
 ## 🌱 Recent Focus
 
-- Learning System Design and Api building
-- Exploring devOps and learning Docker
+- Learning System Designing and Scalability
+- Exploring AWS Cloud on AWS-SkillBuilder
 
 ---
 
 ## 📚 Highlighted Projects
 
--  **[Threadly](https://github.com/manojkumar260706/Threadly-Backend)**: Threadly - a blogging platform for Devs & Tech enthusiasts. 
+-  **[Threadly](https://github.com/manojkumar260706/Threadly-Backend)**: Threadly - a blogging platform for Devs & Tech enthusiasts.
+-  **[CodeDoctor AI](https://github.com/manojkumar260706/CodeDoctor-Ai)**: AI-powered repository analysis platform that understands GitHub repositories using RAG, semantic search, FAISS, and Google Gemini.
 -  **[B-WAMS](https://github.com/manojkumar260706/B-WAMS-Bengaluru-Waste-Analysis-Management-System-)**: An AI-driven platform designed to enable citizens to report waste issues and assist authorities in prioritizing clean-up operations.
--  **[Wordle](https://github.com/manojkumar260706/Wordle)**: A simple and popular daily word puzzle. The main goal is to guess a hidden five-letter word in six attempts or fewer.
+
 
 ---
